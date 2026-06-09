@@ -1,0 +1,25 @@
+Repostero1 ha dejado 40 horno1 lleno al 20% 13:39:56.384506900
+Repostero5 ha dejado 44 horno1 lleno al 42% 13:39:57.109403300
+Repostero2 ha dejado 43 horno1 lleno al 63% 13:39:57.205359
+Repostero3 ha dejado 44 horno1 lleno al 85% 13:39:57.345723700
+Repostero4 ha desperdiciado 12 galletas 13:39:57.510590800
+Repostero4 ha dejado 29 horno1 lleno al 100% 13:39:57.511588700
+horno1 horneando, horno1 lleno al 100%13:39:57.511588700
+Repostero1 ha dejado 40 horno2 lleno al 20% 13:39:59.150946300
+Repostero2 ha dejado 42 horno2 lleno al 41% 13:39:59.885921600
+Repostero3 ha dejado 37 horno2 lleno al 59% 13:40:00.395741400
+Repostero5 ha dejado 38 horno2 lleno al 78% 13:40:00.483575800
+Repostero1 ha dejado 39 horno2 lleno al 98% 13:40:02.441583600
+Repostero3 ha desperdiciado 35 galletas 13:40:03.172256400
+Repostero3 ha dejado 4 horno2 lleno al 100% 13:40:03.172256400
+horno2 horneando, horno2 lleno al 100%13:40:03.172256400
+Repostero5 ha dejado 41 horno3 lleno al 20% 13:40:03.640442700
+Repostero5 esperando la cafetera 13:40:03.642598800
+Repostero5 esta en la cafetera 13:40:03.642598800
+Repostero2 ha dejado 41 horno3 lleno al 41% 13:40:03.845112500
+empaquetador1 ha recogido 20 galletas, horno1 lleno al 90% 13:40:05.514613200
+Repostero5 tomándose el cafe 13:40:05.645055800
+Repostero1 ha desperdiciado 22 galletas 13:40:06.023927500
+empaquetador1 ha recogido 20 galletas, horno1 lleno al 80% 13:40:06.229255900
+empaquetador1 ha recogido 20 galletas, horno1 lleno al 70% 13:40:06.754730700
+empaquetador1 ha recogido 20 galletas, horn
